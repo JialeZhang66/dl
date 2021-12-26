@@ -51,6 +51,7 @@ def download_all():  #@save
 import numpy as np
 import pandas as pd
 import torch
+<<<<<<< HEAD
 from torch import nn
 from d2l import torch as d2l
 
